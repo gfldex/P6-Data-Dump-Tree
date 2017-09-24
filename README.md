@@ -809,7 +809,7 @@ Perl 6:
 
   * Data::Dump
 
-  * Pretty:Printer
+  * Pretty::Printer
 
 
 
